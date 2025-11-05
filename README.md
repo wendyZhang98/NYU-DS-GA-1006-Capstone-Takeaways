@@ -1,4 +1,4 @@
-# 🎓 DS-GA-1006 Capstone
+# 🎓 DS-GA-1006 Capstone Takeaways
 
 A concise summary of concepts and tools from the **NYU Data Science Capstone Bootcamp**, focusing on workflow, reproducibility, software tools, and high-performance computing (HPC).
 
